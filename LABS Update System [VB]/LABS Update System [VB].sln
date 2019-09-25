@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LABS Update System [VB]", "LABS Update System [VB]\LABS Update System [VB].vbproj", "{F921DF06-087E-4FD1-9AEE-AC0CAB5439FC}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LABS Custom Update System", "LABS Custom Update System\LABS Custom Update System.vbproj", "{875B5E72-F27B-4A10-BAA9-53B938AC12EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F921DF06-087E-4FD1-9AEE-AC0CAB5439FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F921DF06-087E-4FD1-9AEE-AC0CAB5439FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F921DF06-087E-4FD1-9AEE-AC0CAB5439FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F921DF06-087E-4FD1-9AEE-AC0CAB5439FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{875B5E72-F27B-4A10-BAA9-53B938AC12EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875B5E72-F27B-4A10-BAA9-53B938AC12EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875B5E72-F27B-4A10-BAA9-53B938AC12EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875B5E72-F27B-4A10-BAA9-53B938AC12EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D5CA66E-A6FD-410E-BF7E-EAB228D0D567}
+	EndGlobalSection
+EndGlobal
