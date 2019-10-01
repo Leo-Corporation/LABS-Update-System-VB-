@@ -1,6 +1,6 @@
 # LABS Update System [VB]
 ## 1. Introduction
-Labs Update System est utilisé dans toutes les applications LC.
+LABS Update System est utilisé dans toutes les applications LC.
 
 Comme son nom l'indique, c'est un système de mise à jour.
 
@@ -22,7 +22,7 @@ Voici les différences notables entre LABS Update System et LABS Custom Update S
 * Possibilité de ne pas installer la mise à jour
 
 # Crédits
-Si vous voulez utiliser le system de mise à jour dans votre application, merci de créditer le projet, en indiquant dans le code le morceaux suivant pour les différents systèmes :
+Si vous voulez utiliser le système de mise à jour dans votre application, merci de créditer le projet, en indiquant dans le code le morceaux suivant pour les différents systèmes :
 ### LABS Update System
 Ajoutez dans le code :
 
@@ -47,3 +47,4 @@ Système de mise à jour par Léo Corporation.
 
 # LABS Update System en C#
 Ce projet est aussi disponible dans [un autre répertoire](https://github.com/Leo-Corporation/LABS-Update-System-CS-) en C#.
+> Note : Les répertoires ne sont pas tout à fait semblables.
