@@ -14,7 +14,7 @@ Comme vous avez pu le remarquer, il y a pour le moment deux déclinaisons :
 
 # LABS Custom Update System [VB]
 ## 1. Introduction
-LABS Custom Update System permet de mettre à jour un logiciel facilement, il possède en plus LABS Update System des "forms" personnalisées.
+LABS Custom Update System permet de mettre à jour un logiciel facilement, il possède en plus LABS Update System des "forms" personnalisées et offre plusieurs possibilités.
 
 ## 2. Différences notables
 Voici les différences notables entre LABS Update System et LABS Custom Update System :
