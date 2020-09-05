@@ -3,7 +3,7 @@
 
 **LABS (Custom) Update System [VB] et LABS (Custom) Update System [C#] sont désormais intégrés dans [**LeoCorpLibrary**](https://github.com/Leo-Corporation/LeoCorpLibrary)**.
 
-**WARNING: THIS REPO WILL BE ARCHIVED ON THE SUNDAY, SEPTEMBER 4TH.**
+**WARNING: THIS REPO WILL BE ARCHIVED ON SUNDAY, SEPTEMBER 4TH.**
 
 Utilisez LeoCorpLibrary pour implémenter ce système plus facilement dans vos projets.
 Vous pouvez utiliser toutes les fonctionnalités présentes dans ce répertoire dans la nouvelle bibliothèque. 
